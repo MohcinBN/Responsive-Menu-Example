@@ -1,0 +1,12 @@
+
+.navigation {text-align: center;}
+.navigation span {
+  cursor: pointer;
+  text-align: center;
+  }
+
+.showed-menu {
+  display: none;
+  text-align: center;
+  list-style: none;
+  }
